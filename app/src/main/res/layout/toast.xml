@@ -10,7 +10,10 @@
     <ImageView
         android:layout_width="60px"
         android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher"/>
+        android:src="@drawable/hart"
+        />
+        //android:src="@mipmap/ic_launcher"
+
 
     <TextView
         android:layout_width="wrap_content"
@@ -24,7 +27,7 @@
     <ImageView
         android:layout_width="60px"
         android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher"/>
+        android:src="@drawable/hart"/>
 
 
 </LinearLayout>
