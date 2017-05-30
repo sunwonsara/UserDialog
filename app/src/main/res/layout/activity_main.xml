@@ -12,17 +12,20 @@
         android:id="@+id/text_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="User Name" />
+        android:text="User Name"
+        android:textSize="20sp"/>
     <TextView
         android:id="@+id/text_email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Email Address" />
+        android:text="Email Address"
+        android:textSize="20sp"/>
     <Button
         android:id="@+id/but"
+        android:background="#e7adaf"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Input User Information"
+        android:text=" Input User Information "
         />
 
 </LinearLayout>

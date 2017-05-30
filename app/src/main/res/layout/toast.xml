@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     >
-
+<!--취소버튼을 클릭했을때 toast가 실행됨-->
     <ImageView
         android:layout_width="60px"
         android:layout_height="wrap_content"
@@ -16,6 +16,7 @@
 
 
     <TextView
+        android:id="@+id/text_toast"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Input is canceled."
